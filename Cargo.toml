@@ -1,0 +1,8 @@
+[package]
+name = "pixelate"
+version = "0.1.0"
+authors = ["Vincent Pasquier <vincentpasquier@posteo.net>"]
+
+[dependencies]
+image = "*"
+clap = "2"
